@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="源文件\array">
+      <UniqueIdentifier>{b4ca905c-ffce-4ec2-a31e-209f9e4f8bd2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\tree">
+      <UniqueIdentifier>{55149f09-e8e0-4f35-b5e2-ea9bc7be09cd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\linked_list">
+      <UniqueIdentifier>{f27df9f7-df7a-4155-9aa7-4ef9ee5e7a4c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\string">
+      <UniqueIdentifier>{45fb26b9-4c04-4698-8b45-8d5e0c988490}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\HashTable">
+      <UniqueIdentifier>{5d09501c-03c4-467d-a5e9-612096c488e2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\math">
+      <UniqueIdentifier>{efd8b847-c1c3-4d1f-9955-0be435afacaa}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Pascals_Triangle_II.cpp">
+      <Filter>源文件\array</Filter>
+    </ClCompile>
+    <ClCompile Include="Merge_Sorted_Array.cpp">
+      <Filter>源文件\array</Filter>
+    </ClCompile>
+    <ClCompile Include="Palindrome_Linked_List.cpp">
+      <Filter>源文件\linked_list</Filter>
+    </ClCompile>
+    <ClCompile Include="Palindrome_Linked_List_2.cpp">
+      <Filter>源文件\linked_list</Filter>
+    </ClCompile>
+    <ClCompile Include="Remove_Nth_Node_From_End_of_List.cpp">
+      <Filter>源文件\linked_list</Filter>
+    </ClCompile>
+    <ClCompile Include="Intersection_of_Two_Linked_Lists.cpp">
+      <Filter>源文件\linked_list</Filter>
+    </ClCompile>
+    <ClCompile Include="Remove_Linked_List_Elements.cpp">
+      <Filter>源文件\linked_list</Filter>
+    </ClCompile>
+    <ClCompile Include="Longest_Common_Prefix.cpp">
+      <Filter>源文件\string</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Compare_Version_Numbers.cpp">
+      <Filter>源文件\string</Filter>
+    </ClCompile>
+    <ClCompile Include="Valid_Parentheses.cpp">
+      <Filter>源文件\string</Filter>
+    </ClCompile>
+    <ClCompile Include="String_to_Integer.cpp">
+      <Filter>源文件\string</Filter>
+    </ClCompile>
+    <ClCompile Include="Implement_strStr().cpp">
+      <Filter>源文件\string</Filter>
+    </ClCompile>
+    <ClCompile Include="Word_Pattern.cpp">
+      <Filter>源文件\HashTable</Filter>
+    </ClCompile>
+    <ClCompile Include="Count_Primes.cpp">
+      <Filter>源文件\math</Filter>
+    </ClCompile>
+    <ClCompile Include="Valid_Sudoku.cpp">
+      <Filter>源文件\HashTable</Filter>
+    </ClCompile>
+    <ClCompile Include="Bulls_and_Cows.cpp">
+      <Filter>源文件\HashTable</Filter>
+    </ClCompile>
+    <ClCompile Include="Isomorphic_Strings.cpp">
+      <Filter>源文件\HashTable</Filter>
+    </ClCompile>
+    <ClCompile Include="Palindrome_Number.cpp">
+      <Filter>源文件\math</Filter>
+    </ClCompile>
+    <ClCompile Include="Rectangle_Area.cpp">
+      <Filter>源文件\math</Filter>
+    </ClCompile>
+    <ClCompile Include="Reverse_Integer.cpp">
+      <Filter>源文件\math</Filter>
+    </ClCompile>
+    <ClCompile Include="Two_Sum.cpp">
+      <Filter>源文件\array</Filter>
+    </ClCompile>
+    <ClCompile Include="Remove_Element.cpp">
+      <Filter>源文件\array</Filter>
+    </ClCompile>
+    <ClCompile Include="Remove_Duplicates_from_Sorted_Array.cpp">
+      <Filter>源文件\array</Filter>
+    </ClCompile>
+    <ClCompile Include="Rotate_Array.cpp">
+      <Filter>源文件\array</Filter>
+    </ClCompile>
+    <ClCompile Include="Summary_Ranges.cpp">
+      <Filter>源文件\array</Filter>
+    </ClCompile>
+    <ClCompile Include="Binary_Tree_Level_Order_Traversal.cpp">
+      <Filter>源文件\tree</Filter>
+    </ClCompile>
+    <ClCompile Include="Maximum_Depth_of_Binary_Tree.cpp">
+      <Filter>源文件\tree</Filter>
+    </ClCompile>
+    <ClCompile Include="Binary_Tree_Level_Order_Traversal_II.cpp">
+      <Filter>源文件\tree</Filter>
+    </ClCompile>
+    <ClCompile Include="Balanced_Binary_Tree.cpp">
+      <Filter>源文件\tree</Filter>
+    </ClCompile>
+    <ClCompile Include="Minimum_Depth_of_Binary_Tree.cpp">
+      <Filter>源文件\tree</Filter>
+    </ClCompile>
+    <ClCompile Include="Lowest Common_Ancestor_of_a_Binary_Search_Tree.cpp">
+      <Filter>源文件\tree</Filter>
+    </ClCompile>
+    <ClCompile Include="Binary_Tree_Paths.cpp">
+      <Filter>源文件\tree</Filter>
+    </ClCompile>
+    <ClCompile Include="Add_Digits.cpp">
+      <Filter>源文件\tree</Filter>
+    </ClCompile>
+    <ClCompile Include="Nim_Game.cpp">
+      <Filter>源文件\tree</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

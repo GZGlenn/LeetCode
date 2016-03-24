@@ -1,0 +1,51 @@
+﻿生成启动时间为 2016/3/20 20:06:53。
+     1>项目“E:\LeetCode\LeetCode\LeetCode.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\basic_software\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Code_1.cpp Code_102.cpp Code_104.cpp Code_107.cpp Code_110.cpp Code_111.cpp Code_189.cpp Code_228.cpp Code_235.cpp COde_257.cpp Code_258.cpp Code_26.cpp Code_27.cpp Code_292.cpp Intersection_of_Two_Linked_Lists.cpp Longest_Common_Prefix.cpp main.cpp Merge_Sorted_Array.cpp Palindrome_Linked_List.cpp Palindrome_Linked_List_2.cpp Pascals_Triangle_II.cpp Remove_Linked_List_Elements.cpp Remove_Nth_Node_From_End_of_List.cpp
+         Remove_Nth_Node_From_End_of_List.cpp
+         Remove_Linked_List_Elements.cpp
+         Pascals_Triangle_II.cpp
+         Palindrome_Linked_List_2.cpp
+         Palindrome_Linked_List.cpp
+         Merge_Sorted_Array.cpp
+         main.cpp
+     1>e:\leetcode\leetcode\main.cpp(8): error C3867: “std::basic_string<char,std::char_traits<char>,std::allocator<char>>::length”:  函数调用缺少参数列表；请使用“&std::basic_string<char,std::char_traits<char>,std::allocator<char>>::length”创建指向成员的指针
+         Longest_Common_Prefix.cpp
+     1>e:\leetcode\leetcode\longest_common_prefix.cpp(14): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\leetcode\leetcode\longest_common_prefix.cpp(15): error C3867: “std::basic_string<char,std::char_traits<char>,std::allocator<char>>::length”:  函数调用缺少参数列表；请使用“&std::basic_string<char,std::char_traits<char>,std::allocator<char>>::length”创建指向成员的指针
+     1>e:\leetcode\leetcode\longest_common_prefix.cpp(15): error C2446: “<=”: 没有从“int”到“unsigned int (__thiscall std::basic_string<char,std::char_traits<char>,std::allocator<char>>::* )(void) throw() const”的转换
+                 没有从整数值到指向成员的指针值的转换
+     1>e:\leetcode\leetcode\longest_common_prefix.cpp(15): error C2296: “<=”: 非法，左操作数包含“unsigned int (__thiscall std::basic_string<char,std::char_traits<char>,std::allocator<char>>::* )(void) throw() const”类型
+     1>e:\leetcode\leetcode\longest_common_prefix.cpp(16): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+         Intersection_of_Two_Linked_Lists.cpp
+         Code_292.cpp
+         Code_27.cpp
+         Code_26.cpp
+     1>e:\leetcode\leetcode\code_26.cpp(11): warning C4018: “<”: 有符号/无符号不匹配
+         Code_258.cpp
+         COde_257.cpp
+     1>e:\leetcode\leetcode\code_257.cpp(42): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\basic_software\vs2013\vc\include\stdio.h(356) : 参见“sprintf”的声明
+         Code_235.cpp
+         Code_228.cpp
+     1>e:\leetcode\leetcode\code_228.cpp(14): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\leetcode\leetcode\code_228.cpp(17): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\leetcode\leetcode\code_228.cpp(25): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\leetcode\leetcode\code_228.cpp(39): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\basic_software\vs2013\vc\include\stdio.h(356) : 参见“sprintf”的声明
+         Code_189.cpp
+         Code_111.cpp
+         Code_110.cpp
+         Code_107.cpp
+         正在生成代码...
+         正在编译...
+         Code_104.cpp
+         Code_102.cpp
+         Code_1.cpp
+     1>e:\leetcode\leetcode\code_1.cpp(24): warning C4018: “<”: 有符号/无符号不匹配
+         正在生成代码...
+     1>已完成生成项目“E:\LeetCode\LeetCode\LeetCode.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:04.85

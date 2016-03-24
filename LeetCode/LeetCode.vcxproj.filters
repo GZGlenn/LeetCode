@@ -31,6 +31,12 @@
     <Filter Include="源文件\math">
       <UniqueIdentifier>{efd8b847-c1c3-4d1f-9955-0be435afacaa}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\Dynamic_Programming">
+      <UniqueIdentifier>{d864c2a4-4206-48f8-80dd-8f6f33390745}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Binary_Search">
+      <UniqueIdentifier>{292f6ad4-34f1-4cd5-93b8-2a04c733ef4c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Pascals_Triangle_II.cpp">
@@ -137,6 +143,30 @@
     </ClCompile>
     <ClCompile Include="Nim_Game.cpp">
       <Filter>源文件\tree</Filter>
+    </ClCompile>
+    <ClCompile Include="Excel_Sheet_Column_Title.cpp">
+      <Filter>源文件\math</Filter>
+    </ClCompile>
+    <ClCompile Include="Swap_Nodes_in_Pairs.cpp">
+      <Filter>源文件\linked_list</Filter>
+    </ClCompile>
+    <ClCompile Include="Range_Sum_Query_Immutable.cpp">
+      <Filter>源文件\Dynamic_Programming</Filter>
+    </ClCompile>
+    <ClCompile Include="House_Robber.cpp">
+      <Filter>源文件\Dynamic_Programming</Filter>
+    </ClCompile>
+    <ClCompile Include="First_Bad_Version.cpp">
+      <Filter>源文件\Binary_Search</Filter>
+    </ClCompile>
+    <ClCompile Include="Roman_to_Integer.cpp">
+      <Filter>源文件\string</Filter>
+    </ClCompile>
+    <ClCompile Include="Count_and_Say.cpp">
+      <Filter>源文件\string</Filter>
+    </ClCompile>
+    <ClCompile Include="ZigZag_Conversion.cpp">
+      <Filter>源文件\string</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

@@ -79,6 +79,13 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Bulls_and_Cows.cpp" />
+    <ClCompile Include="Count_and_Say.cpp" />
+    <ClCompile Include="Excel_Sheet_Column_Title.cpp" />
+    <ClCompile Include="First_Bad_Version.cpp" />
+    <ClCompile Include="House_Robber.cpp" />
+    <ClCompile Include="Range_Sum_Query_Immutable.cpp" />
+    <ClCompile Include="Roman_to_Integer.cpp" />
+    <ClCompile Include="Swap_Nodes_in_Pairs.cpp" />
     <ClCompile Include="Two_Sum.cpp" />
     <ClCompile Include="Binary_Tree_Level_Order_Traversal.cpp" />
     <ClCompile Include="Maximum_Depth_of_Binary_Tree.cpp" />
@@ -113,6 +120,7 @@
     <ClCompile Include="Valid_Parentheses.cpp" />
     <ClCompile Include="Valid_Sudoku.cpp" />
     <ClCompile Include="Word_Pattern.cpp" />
+    <ClCompile Include="ZigZag_Conversion.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

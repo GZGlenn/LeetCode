@@ -16,9 +16,6 @@
     <Filter Include="源文件\array">
       <UniqueIdentifier>{b4ca905c-ffce-4ec2-a31e-209f9e4f8bd2}</UniqueIdentifier>
     </Filter>
-    <Filter Include="源文件\linked_list">
-      <UniqueIdentifier>{f27df9f7-df7a-4155-9aa7-4ef9ee5e7a4c}</UniqueIdentifier>
-    </Filter>
     <Filter Include="源文件\HashTable">
       <UniqueIdentifier>{5d09501c-03c4-467d-a5e9-612096c488e2}</UniqueIdentifier>
     </Filter>
@@ -76,6 +73,9 @@
     <Filter Include="源文件\Divide and Conquer">
       <UniqueIdentifier>{5f68fa4b-4583-45d6-aff4-10bf7ad36ebb}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\Linked List">
+      <UniqueIdentifier>{f27df9f7-df7a-4155-9aa7-4ef9ee5e7a4c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Pascals_Triangle_II.cpp">
@@ -85,19 +85,19 @@
       <Filter>源文件\array</Filter>
     </ClCompile>
     <ClCompile Include="Palindrome_Linked_List.cpp">
-      <Filter>源文件\linked_list</Filter>
+      <Filter>源文件\Linked List</Filter>
     </ClCompile>
     <ClCompile Include="Palindrome_Linked_List_2.cpp">
-      <Filter>源文件\linked_list</Filter>
+      <Filter>源文件\Linked List</Filter>
     </ClCompile>
     <ClCompile Include="Remove_Nth_Node_From_End_of_List.cpp">
-      <Filter>源文件\linked_list</Filter>
+      <Filter>源文件\Linked List</Filter>
     </ClCompile>
     <ClCompile Include="Intersection_of_Two_Linked_Lists.cpp">
-      <Filter>源文件\linked_list</Filter>
+      <Filter>源文件\Linked List</Filter>
     </ClCompile>
     <ClCompile Include="Remove_Linked_List_Elements.cpp">
-      <Filter>源文件\linked_list</Filter>
+      <Filter>源文件\Linked List</Filter>
     </ClCompile>
     <ClCompile Include="Longest_Common_Prefix.cpp">
       <Filter>源文件\String</Filter>
@@ -187,7 +187,7 @@
       <Filter>源文件\Math</Filter>
     </ClCompile>
     <ClCompile Include="Swap_Nodes_in_Pairs.cpp">
-      <Filter>源文件\linked_list</Filter>
+      <Filter>源文件\Linked List</Filter>
     </ClCompile>
     <ClCompile Include="Range_Sum_Query_Immutable.cpp">
       <Filter>源文件\Dynamic_Programming</Filter>
@@ -232,9 +232,6 @@
       <Filter>源文件\array</Filter>
     </ClCompile>
     <ClCompile Include="Set Matrix Zeroes.cpp">
-      <Filter>源文件\array</Filter>
-    </ClCompile>
-    <ClCompile Include="Best Time to Buy and Sell Stock.cpp">
       <Filter>源文件\array</Filter>
     </ClCompile>
     <ClCompile Include="Coin Change.cpp">
@@ -357,9 +354,6 @@
     <ClCompile Include="Largest Number.cpp">
       <Filter>源文件\Sort</Filter>
     </ClCompile>
-    <ClCompile Include="H-Index.cpp">
-      <Filter>源文件\Sort</Filter>
-    </ClCompile>
     <ClCompile Include="Range Sum Query - Mutable.cpp">
       <Filter>源文件\Binary Indexed Tree</Filter>
     </ClCompile>
@@ -387,12 +381,6 @@
     <ClCompile Include="Fraction to Recurring Decimal.cpp">
       <Filter>源文件\HashTable</Filter>
     </ClCompile>
-    <ClCompile Include="H-Index II.cpp">
-      <Filter>源文件\other</Filter>
-    </ClCompile>
-    <ClCompile Include="Rotate Image.cpp">
-      <Filter>源文件\other</Filter>
-    </ClCompile>
     <ClCompile Include="Single Number II.cpp">
       <Filter>源文件\Bit Manipulation</Filter>
     </ClCompile>
@@ -403,12 +391,9 @@
       <Filter>源文件\Tree</Filter>
     </ClCompile>
     <ClCompile Include="Linked List Cycle.cpp">
-      <Filter>源文件\linked_list</Filter>
+      <Filter>源文件\Linked List</Filter>
     </ClCompile>
     <ClCompile Include="Reverse Words in a String.cpp">
-      <Filter>源文件\other</Filter>
-    </ClCompile>
-    <ClCompile Include="Rotate List.cpp">
       <Filter>源文件\other</Filter>
     </ClCompile>
     <ClCompile Include="Find Minimum in Rotated Sorted Array.cpp">
@@ -454,22 +439,22 @@
       <Filter>源文件\Backtracking</Filter>
     </ClCompile>
     <ClCompile Include="Linked List Cycle II.cpp">
-      <Filter>源文件\linked_list</Filter>
+      <Filter>源文件\Linked List</Filter>
     </ClCompile>
     <ClCompile Include="Add Two Numbers.cpp">
-      <Filter>源文件\linked_list</Filter>
+      <Filter>源文件\Linked List</Filter>
     </ClCompile>
     <ClCompile Include="Partition List.cpp">
-      <Filter>源文件\linked_list</Filter>
+      <Filter>源文件\Linked List</Filter>
     </ClCompile>
     <ClCompile Include="Reverse Linked List II.cpp">
-      <Filter>源文件\linked_list</Filter>
+      <Filter>源文件\Linked List</Filter>
     </ClCompile>
     <ClCompile Include="Remove Duplicates from Sorted List II.cpp">
-      <Filter>源文件\linked_list</Filter>
+      <Filter>源文件\Linked List</Filter>
     </ClCompile>
     <ClCompile Include="Reorder List.cpp">
-      <Filter>源文件\linked_list</Filter>
+      <Filter>源文件\Linked List</Filter>
     </ClCompile>
     <ClCompile Include="Search in Rotated Sorted Array.cpp">
       <Filter>源文件\array</Filter>
@@ -527,6 +512,57 @@
     </ClCompile>
     <ClCompile Include="Search in Rotated Sorted Array II.cpp">
       <Filter>源文件\array</Filter>
+    </ClCompile>
+    <ClCompile Include="H-Index II.cpp">
+      <Filter>源文件\Sort</Filter>
+    </ClCompile>
+    <ClCompile Include="Rotate Image.cpp">
+      <Filter>源文件\array</Filter>
+    </ClCompile>
+    <ClCompile Include="Rotate List.cpp">
+      <Filter>源文件\Linked List</Filter>
+    </ClCompile>
+    <ClCompile Include="Best Time to Buy and Sell Stock.cpp">
+      <Filter>源文件\Dynamic_Programming</Filter>
+    </ClCompile>
+    <ClCompile Include="temp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Intersection of Two Arrays.cpp">
+      <Filter>源文件\HashTable</Filter>
+    </ClCompile>
+    <ClCompile Include="Contains Duplicate.cpp">
+      <Filter>源文件\HashTable</Filter>
+    </ClCompile>
+    <ClCompile Include="Valid Anagram.cpp">
+      <Filter>源文件\HashTable</Filter>
+    </ClCompile>
+    <ClCompile Include="Two Sum.cpp">
+      <Filter>源文件\HashTable</Filter>
+    </ClCompile>
+    <ClCompile Include="Count Primes.cpp">
+      <Filter>源文件\HashTable</Filter>
+    </ClCompile>
+    <ClCompile Include="Reverse String.cpp">
+      <Filter>源文件\String</Filter>
+    </ClCompile>
+    <ClCompile Include="Intersection of Two Arrays II.cpp">
+      <Filter>源文件\HashTable</Filter>
+    </ClCompile>
+    <ClCompile Include="Happy Number.cpp">
+      <Filter>源文件\HashTable</Filter>
+    </ClCompile>
+    <ClCompile Include="Contains Duplicate II.cpp">
+      <Filter>源文件\HashTable</Filter>
+    </ClCompile>
+    <ClCompile Include="Binary Tree Inorder Traversal.cpp">
+      <Filter>源文件\HashTable</Filter>
+    </ClCompile>
+    <ClCompile Include="H-Index.cpp">
+      <Filter>源文件\HashTable</Filter>
+    </ClCompile>
+    <ClCompile Include="4Sum.cpp">
+      <Filter>源文件\HashTable</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

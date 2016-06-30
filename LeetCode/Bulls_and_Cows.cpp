@@ -53,7 +53,7 @@ public:
 //		vector<bool> tag(secret.size(), false);
 //		for (auto a : secret) {
 //			++hash[a];
-//		};
+//		}
 //		for (int i = 0; i < secret.size(); ++i) {
 //			if (secret[i] == guess[i]) {
 //				++cntA;
